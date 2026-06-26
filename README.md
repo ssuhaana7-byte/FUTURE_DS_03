@@ -57,6 +57,12 @@ May is especially weak, while late-year and spring months are much stronger.
 
 
 
+Visual Summary
+<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/a734d494-21e8-476d-a2c4-935c3c8898f9" />
+
+
+
+
 
 
 Recommended actions
