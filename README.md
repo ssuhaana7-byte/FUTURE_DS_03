@@ -76,12 +76,9 @@ The campaign pattern suggests repeated contact attempts have diminishing returns
 If operationally possible, concentrate acquisition and conversion efforts in stronger months like March, September, October, and December, and treat May as a low-priority period.
 
 4. Segment by campaign and channel
-Build separate playbooks for:
-
-cellular vs telephone
+Build separate playbooks for cellular vs telephone
 high-converting vs low-converting campaigns
-high-response months vs weak months
-That will help you allocate effort where conversion probability is highest.
+high-response months vs weak months That will help you allocate effort where conversion probability is highest.
 
 
 
